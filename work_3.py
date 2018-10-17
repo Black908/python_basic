@@ -44,12 +44,6 @@ for x in range(12):
 
 dotCount = targetString.count(".")
 
-for s in range(0, dotCount):
-    firstSentence = targetString[0:firstIndex + 1]
-
-    dotCount += 1
-    first = firstIndex+2
-    print()
 
 wordList = targetString.split(" ")
 print(wordList)
