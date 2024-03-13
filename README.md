@@ -1,2 +1,2 @@
-# 고등학교
-python 기초 학습
+# Python
+고등학교 python 기초 학습
